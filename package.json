@@ -4,7 +4,8 @@
   "description": "Desenvolvido durante o curso Full Stack da Cubos Academy.",
   "main": "index.js",
   "scripts": {
-    "dev": "nodemon ./index.js"
+    "dev": "nodemon ./index.js",
+    "start": "node ./index.js"
   },
   "keywords": [],
   "author": "",
